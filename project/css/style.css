@@ -359,6 +359,15 @@ text-decoration: none;
 color: #445161;
 margin: 30px;
 padding: 15px 0px;
-border-radius: 4%
-;
+border-radius: 4%;
+}
+
+.pay_link:hover{
+    background-color:  #445161;
+    color: #fff;
+}
+
+.pay_link:active{
+    background-color: #fff;
+    color: #445161;
 }
